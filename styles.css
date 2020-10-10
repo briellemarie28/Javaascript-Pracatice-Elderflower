@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&family=Dancing+Script&display=swap');
+body{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0; 
+    background: linear-gradient(to right, #cac531, #f3f9a7);
+}
+h1{
+    font-family: 'Dancing Script', cursive;
+   
+}
+table , #greeting {
+    font-family: 'Comfortaa', cursive;
+}
+
